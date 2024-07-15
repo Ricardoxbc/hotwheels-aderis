@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 pt-2">
       <div>
-        <h2 className="text-center">Colleciones</h2>
+        <h2 className="text-center">Collections</h2>
         <Collections collections={collections} />
       </div>
     </main>
